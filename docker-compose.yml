@@ -1,0 +1,7 @@
+services:
+  photo-archive:
+    build: .
+    restart: unless-stopped
+    container_name: photo-archive
+    ports:
+      - "80:80"
