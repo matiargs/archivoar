@@ -1,5 +1,5 @@
 services:
-  photo-archive:
+  archivoar-website:
     build: .
     restart: unless-stopped
     container_name: photo-archive

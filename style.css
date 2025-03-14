@@ -10,3 +10,12 @@ img {
 footer p{
     font-size: 14px;
 }
+
+.wavy-decoration {
+    text-decoration: #07c wavy underline;
+    color: #07c;
+}
+
+.wavy-decoration:hover {
+    text-decoration: black wavy underline;
+}
