@@ -3,5 +3,6 @@
     "assets": {
         "directory": "./"
     },
-    "compatibility_date":"2025-11-14"
+    "compatibility_date":"2025-11-14",
+    "workers_dev": false
   }
