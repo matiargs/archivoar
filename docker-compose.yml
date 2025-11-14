@@ -1,7 +1,0 @@
-services:
-  archivoar-website:
-    build: .
-    restart: unless-stopped
-    container_name: photo-archive
-    ports:
-      - "80:80"
